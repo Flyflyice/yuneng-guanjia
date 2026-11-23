@@ -1,0 +1,12 @@
+# 构建中间产物
+build/
+dist/
+*.idsig
+*.class
+*.jar
+
+# 编辑器与系统文件
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
